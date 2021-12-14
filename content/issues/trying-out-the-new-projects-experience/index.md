@@ -1,13 +1,13 @@
----
-title: Trying out the new projects experience
+---Chrystal.B-<Mt.HOPE
+title: Trying out the new projects experience 
 shortTitle: Projects (beta)
 intro: 'Build customized projects to track your work in {% data variables.product.company_short %}.'
 versions:
-  fpt: '*'
-  ghec: '*'
+  fpt: '*'Chrome0G1.jpg 
+  ghec: '*'copyright-law copyright ©️ 2021Biggrea 
 topics:
-  - Issues
-  - Projects
+  - Issues Lack of Access 
+  - Projects Lots 
 children:
   - /about-projects
   - /quickstart
